@@ -8,7 +8,7 @@ Ans: Math.floorMod gives you the lowest number. However, % gives you just the re
 What is the time complexity of MyHashMap.size(), and how could you make it much more efficient?
 Ans: O(n) where n is the size of the table
 How does this implementation compare to one where you would directly use your linked Node class from the earlier assignment? Answer briefly in terms of ease of implementation, correctness, reliability, and performance.
-Ans: Performance in my hashmap is better whereas Linked Nodes are easier and they are the same in terms of correctness and reliability
+Ans: Performance in my hashmap is better whereas Linked Nodes are easier to implement and they are the same in terms of correctness and reliability. 
 
 
 time in ms: 680
